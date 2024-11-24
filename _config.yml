@@ -12,9 +12,7 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Arturo Bracero # author name
   bio: >- # tell to the world
-    After a decade in media leadership, I carved my own path in engineering by solving business needs through software. With a
-    rich background in JavaScript, Python and React, I bring over a year of hands-on expertise in optimizing AWS infrastructure
-    and refining CI/CD workflows.
+    DevOps engineer focused on improving developer experience and creating platforms that other engineers love to use. With a rich background in JavaScript, Python and React, I bring over three years of hands-on expertise in optimizing AWS infrastructure and refining CI/CD workflows.
   username: abracero # general username
   github: sqr # github username
   twitter: squaree # twitter username
